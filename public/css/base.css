@@ -1,0 +1,13 @@
+body {
+    font: 300 1em 'Helvetica Neue';
+    padding: 5em;
+    margin: 0;
+}
+
+input[type="text"] {
+    font: 300 1em 'Helvetica Neue';
+    outline: none;
+    border: 1px solid #eee;
+    padding: 0.35em 0.5em;
+    background-color: transparent;
+}
